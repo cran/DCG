@@ -18,4 +18,3 @@ monkeyGrooming
 A dataset containing grooming edgelist among monkeys.
 }
 \keyword{datasets}
-

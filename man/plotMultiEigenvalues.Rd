@@ -74,4 +74,3 @@ PloS one, 8(2), e56259.
 \seealso{
 \code{\link{plotCLUSTERS}}, \code{\link{getEnsList}}
 }
-

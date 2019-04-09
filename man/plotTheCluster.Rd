@@ -21,4 +21,3 @@ a tree plot
 generate tree plots for selected ensemble matrix
 \code{plotTrees} plot one cluster tree
 }
-

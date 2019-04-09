@@ -56,4 +56,3 @@ Fushing, H., Wang, H., VanderWaal, K., McCowan, B., & Koehl, P. (2013).
 Multi-scale clustering by building a robust and self correcting ultrametric topology on data points.
 PloS one, 8(2), e56259.
 }
-

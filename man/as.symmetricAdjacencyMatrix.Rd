@@ -52,4 +52,3 @@ raw data when duplicated dyads were found in a three-column edgelist.
 symmetricMatrix <- as.symmetricAdjacencyMatrix(monkeyGrooming, weighted = TRUE, rule = "weak")
 
 }
-

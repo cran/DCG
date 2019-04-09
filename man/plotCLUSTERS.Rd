@@ -5,8 +5,8 @@
 \title{generate tree plots for each ensemble matrix
 \code{plotCLUSTERS} plot all cluster trees}
 \usage{
-plotCLUSTERS(EnsList, mfrow, mar = c(1, 1, 1, 1), line = -1.5, cex = 0.5,
-  ...)
+plotCLUSTERS(EnsList, mfrow, mar = c(1, 1, 1, 1), line = -1.5,
+  cex = 0.5, ...)
 }
 \arguments{
 \item{EnsList}{a list in which elements are ensemble matrices.}
@@ -69,4 +69,3 @@ PloS one, 8(2), e56259.
 \seealso{
 \code{\link{getEnsList}}
 }
-

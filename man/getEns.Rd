@@ -29,4 +29,3 @@ It first generate similarity matrices of different variances
 by taking the raw similarity matrix to the power of each
 temperature. Then it called the function \code{EstClust} to perform random walks in the network to identify clusters.
 }
-

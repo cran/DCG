@@ -5,7 +5,8 @@
 \title{generate temperatures
 \code{temperatureSample} generate tempatures based on either random or fixed intervals}
 \usage{
-temperatureSample(start = 0.01, end = 20, n = 20, method = "random")
+temperatureSample(start = 0.01, end = 20, n = 20,
+  method = "random")
 }
 \arguments{
 \item{start}{a numeric vector of length 1, indicating the lowest temperature}
@@ -51,4 +52,3 @@ PloS one, 8(2), e56259.
 \seealso{
 \code{\link{getEnsList}}
 }
-

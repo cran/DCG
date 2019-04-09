@@ -22,4 +22,3 @@ symmetricMatrix <- as.symmetricAdjacencyMatrix(monkeyGrooming, weighted = TRUE, 
 similarityMatrix <- as.SimilarityMatrix(symmetricMatrix)
 
 }
-

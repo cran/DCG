@@ -17,4 +17,3 @@ a list of \code{eigenvalues} for each of the ensemble matrix in the ensemble mat
 generate eigenvalues for all ensemble matrices
 \code{getEigenvalueList} get eigenvalues from ensemble matrices
 }
-
